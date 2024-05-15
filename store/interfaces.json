@@ -1,0 +1,4 @@
+{
+  "precio": { "component": "PrecioM2" },
+  "precio-plp": { "component": "PrecioM2PLP" }
+}

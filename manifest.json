@@ -1,0 +1,17 @@
+{
+  "vendor": "ferreval",
+  "name": "precio",
+  "version": "0.0.1",
+  "builders": {
+    "react": "3.x",
+    "store": "0.x"
+  },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "dependencies": {
+    "vtex.css-handles": "0.x",
+    "vtex.product-context": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

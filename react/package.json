@@ -1,0 +1,13 @@
+{
+  "name": "base",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "react": "^18.2.0",
+    "react-intl": "^6.3.0"
+  },
+  "devDependencies": {
+    "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.0/public/@types/vtex.css-handles"
+  }
+}
